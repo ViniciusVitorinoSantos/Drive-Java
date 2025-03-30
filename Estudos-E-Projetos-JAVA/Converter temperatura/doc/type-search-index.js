@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"convertertemperatura","l":"Celcius"},{"p":"convertertemperatura","l":"ConversorTemperatura"},{"p":"convertertemperatura","l":"Fahrenheit"}];updateSearchResults();
