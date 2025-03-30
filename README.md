@@ -6,6 +6,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/ViniciusVitorinoSantos/Drive-Java)
 ![GitHub contributors](https://img.shields.io/github/contributors/ViniciusVitorinoSantos/Drive-Java)
 
+# Descrição.
+## Este repositório serve para eu que eu estude os aspectos da tecnologia JAVA ☕, dito isso pego informações de livros e varios cursos incluindo do meu curso técnico em desenvolvimento de sistemas, da faculdade de análise e desenvolvimento de sistemas e aplico seus conceitos aqui com GUI como JavaFX, Java Swing, também faço variados exercícios de orientação a objetos aplicando seus pilares, esses projetos não são destinados a pessoas contribuirém deixo-os públicos para que qualquer pessoa que quiser entrar e copiar se sinta livre faço muitas documentações em arquivos .md crio diagramas de classes de muitos dos projetos para ter uma experiência educacional mais abrangente. bom é isso nos vemos por ai 💙❤️🧡🩷
 
 
 
